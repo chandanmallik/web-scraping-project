@@ -4,7 +4,7 @@
 
 ### Technology used:
 	
-	1.Python\n
+	1.Python
 	2.mysql
 
 ### Library used :
