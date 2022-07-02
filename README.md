@@ -20,6 +20,9 @@
 
 #### NOTE : The current code and environment is path dependent and machine dependent , for windows or linux we need different chrome driver and path specification.
 
+### How to use? 
+1.open main.py and run it will ask for input and it will automatically save in local database
+(as project is machine dependent so we need few modification to run on different machine)
 
 
 ### Description
